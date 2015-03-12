@@ -1,0 +1,12 @@
+{
+  "name": "huntnotifier",
+  "title": "Hunt Notifier",
+  "id": "hunt@huntnotifier.com",
+  "description": "Product Hunt notifier. Get notified when a new product appears on Product Hunt",
+  "homepage":"http://www.huntnotifier.com",
+  "author": "Catalin Pop",
+  "license": "MPL 2.0",
+  "version": "1.0.0",
+  "icon":"data/icon-32.png",
+  "icon64":"data/icon-64.png"
+}
