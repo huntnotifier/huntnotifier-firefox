@@ -1,10 +1,10 @@
 {
   "name": "huntnotifier",
   "title": "Hunt Notifier",
-  "id": "hunt@huntnotifier.com",
+  "id": "hunt@huntnotifier.github.io",
   "description": "Product Hunt notifier. Get notified when a new product appears on Product Hunt",
-  "homepage":"http://www.huntnotifier.com",
-  "author": "Catalin Pop",
+  "homepage":"https://huntnotifier.github.io",
+  "author": "HubTalk",
   "license": "MPL 2.0",
   "version": "1.0.0",
   "icon":"data/icon-32.png",
